@@ -33,8 +33,8 @@ Neste projeto, você vai desenvolver uma página de formulário da Escola de Mag
   <summary><strong>🗓 Data de Entrega</strong></summary><br />
 
 - Este projeto é individual
-- Será `X` dia de projeto
-- Data limite para entrega: `dd/mm/yyyy - 23:59h`
+- Será `1` dia de projeto
+- Data limite para entrega: `18/10/2023 - 23:59h`
 
 Ao se organizar para cumprir o prazo, isso vai colocar em prática organização e gestão do tempo.
 
