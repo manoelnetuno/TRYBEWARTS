@@ -36,5 +36,8 @@
     "mochawesome-report-generator": "^6.2.0",
     "stylelint": "^15.6.2",
     "stylelint-config-standard": "^33.0.0"
+  },
+  "dependencies": {
+    "postcss-safe-parser": "^7.0.0"
   }
 }
